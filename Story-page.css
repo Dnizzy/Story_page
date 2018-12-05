@@ -1,0 +1,28 @@
+﻿body {
+    background-color: pink;
+    color: black;
+    padding-bottom: 100pt;
+    border-color: black;
+    max-width: 800px;
+    font-size:100%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     margin:auto;
+}
+img {
+    padding-bottom: 50pt;
+    max-width:800px;
+    display:block;
+}
+
+.storyti {
+font-size:40px;
+
+}
+
+
+.contlist {
+    padding-bottom: 50px;
+}
+.inks {
+    text-decoration:none;
+   }
